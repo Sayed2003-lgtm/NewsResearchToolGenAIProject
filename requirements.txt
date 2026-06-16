@@ -1,0 +1,9 @@
+streamlit
+langchain==0.2.17
+langchain-community==0.2.19
+langchain-google-genai==1.0.10
+langchain-text-splitters
+faiss-cpu
+unstructured
+python-dotenv
+google-generativeai
